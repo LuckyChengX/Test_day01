@@ -8,6 +8,6 @@ public class test1 {
         System.out.println("请输入一个整数：");
         int n = scan.nextInt();
         System.out.println("您输入的整数是："+n);
-        System.out.println("版本");
+        System.out.println("版本3");
     }
 }
