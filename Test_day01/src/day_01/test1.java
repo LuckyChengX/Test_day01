@@ -9,5 +9,6 @@ public class test1 {
         int n = scan.nextInt();
         System.out.println("您输入的整数是："+n);
         System.out.println("版本3");
+        System.out.println("远程拉取回来");
     }
 }
